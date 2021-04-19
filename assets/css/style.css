@@ -1,0 +1,33 @@
+@font-face {
+	font-family: "ProximaNova-Light";
+	src: url("../fonts/ProximaNova-Light.otf");
+}
+
+@font-face {
+	font-family: "FontsFree-Net-Proxima-Nova-Black";
+	src: url("../fonts/FontsFree-Net-Proxima-Nova-Black.otf");
+}
+
+body p, h2 {
+	font-family: ProximaNova-Light;
+}
+
+a {
+	text-decoration: none;
+}
+
+.slide img{
+	height: 800px;
+}
+
+.title {
+	font-size: 2em;
+}
+
+.tri {
+	background-image: url('../img/bg.jpg');
+}
+
+.tri a {
+	color: blue;
+}
